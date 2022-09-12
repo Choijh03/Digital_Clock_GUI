@@ -1,5 +1,6 @@
 # Digital_Clock_GUI
 
+Jihun Choi / tkarnrwlehtk@gmail.com
 
 This is Digital Clock GUI written by using JFRAME and Netbeans IDE.
 
